@@ -1,0 +1,7 @@
+.rhap_rewind-button,
+.rhap_forward-button {
+  display: none !important;
+}
+.rhap_repeat-button {
+  display: none !important;
+}
